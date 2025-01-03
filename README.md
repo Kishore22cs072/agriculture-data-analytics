@@ -13,7 +13,7 @@
 
 
 
-                                                                     ![image](https://github.com/Kishore22cs072/agriculture-data-analytics/blob/main/image.png?raw=true)
+                                                                     ![image](https://github.com/Kishore22cs072/agriculture-data-analytics/blob/3227678af8d23a14cdf441727e964b5ea7296f79/filters.png)
 
 
 
