@@ -12,8 +12,7 @@
 **FILTERS**
 
 
-
-                                                                     https://github.com/Kishore22cs072/agriculture-data-analytics/blob/main/filters.png
+                                                                     ![filters](https://github.com/user-attachments/assets/aea1e2fa-b228-429d-b93e-2330b6915d11)
 
 
                                                                      ![image](https://github.com/user-attachments/assets/99a783f6-ea9f-4692-ad1a-2cb762146a17)
