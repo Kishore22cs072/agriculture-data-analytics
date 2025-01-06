@@ -15,22 +15,24 @@ The collection of agriculture data from 2000 to 2023 consists of rainfall, ferti
 ## OVERVIEW
 
 ## Dashboard
-<p align="center"><img alt="orderanalysis" src="https://github.com/user-attachments/assets/7310903f-2b48-46b2-9a46-95e1a9f27afc"></p>
+![image](https://github.com/user-attachments/assets/a991cea9-b95a-42bc-810b-b21f96ec345b)
+
 
 
 ## Year filter
-![image](https://github.com/user-attachments/assets/f25b9b41-50d3-4ddb-9957-13063abb0283)
+![image](https://github.com/user-attachments/assets/a00518dc-e874-4647-8428-a22326c87238)
 
-                                                                    
-                                                                   
 
+                                                                                                                                      
 ## Region filter
- ![image](https://github.com/user-attachments/assets/87fabc01-beb4-491d-88ea-beebcc10d4e8)
+![image](https://github.com/user-attachments/assets/0fdf980b-6282-4ab1-8d5f-784698ec6854)
+
 
 
 ## Dataset
-![image](https://github.com/user-attachments/assets/7f1f3cf6-7337-4d83-b9f0-a199619fd028)
+![image](https://github.com/user-attachments/assets/2e6cf45e-717f-4282-ba82-5334ca1d367a)
 
 
 ## Pivot table
-![image](https://github.com/user-attachments/assets/5ffe2d24-79ad-4771-97f4-9ed8dbb79db7)
+![image](https://github.com/user-attachments/assets/c866f6ba-70f3-4903-8b1e-01190ae6544f)
+
